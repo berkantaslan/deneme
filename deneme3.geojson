@@ -1,6 +1,322 @@
 {
     "type": "FeatureCollection",
     "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19513,
+                            41.58807
+                        ],
+                        [
+                            27.19559,
+                            41.5878
+                        ],
+                        [
+                            27.19584,
+                            41.58792
+                        ],
+                        [
+                            27.19595,
+                            41.588
+                        ],
+                        [
+                            27.19601,
+                            41.58807
+                        ],
+                        [
+                            27.19542,
+                            41.58839
+                        ],
+                        [
+                            27.19503,
+                            41.58858
+                        ],
+                        [
+                            27.19478,
+                            41.58872
+                        ],
+                        [
+                            27.19401,
+                            41.58912
+                        ],
+                        [
+                            27.19341,
+                            41.58941
+                        ],
+                        [
+                            27.19332,
+                            41.58929
+                        ],
+                        [
+                            27.19318,
+                            41.58906
+                        ],
+                        [
+                            27.19335,
+                            41.58897
+                        ],
+                        [
+                            27.19399,
+                            41.58865
+                        ],
+                        [
+                            27.19513,
+                            41.58807
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Pinar Dere",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269025,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773452,
+                "parselNo": "327",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "11,100.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 6,
+                "id": "6704ef6a-c37e-436c-8cc3-040c8dda99f8",
+                "cropType": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19513,
+                            41.58807
+                        ],
+                        [
+                            27.19559,
+                            41.5878
+                        ],
+                        [
+                            27.19584,
+                            41.58792
+                        ],
+                        [
+                            27.19595,
+                            41.588
+                        ],
+                        [
+                            27.19601,
+                            41.58807
+                        ],
+                        [
+                            27.19542,
+                            41.58839
+                        ],
+                        [
+                            27.19503,
+                            41.58858
+                        ],
+                        [
+                            27.19478,
+                            41.58872
+                        ],
+                        [
+                            27.19401,
+                            41.58912
+                        ],
+                        [
+                            27.19341,
+                            41.58941
+                        ],
+                        [
+                            27.19332,
+                            41.58929
+                        ],
+                        [
+                            27.19318,
+                            41.58906
+                        ],
+                        [
+                            27.19335,
+                            41.58897
+                        ],
+                        [
+                            27.19399,
+                            41.58865
+                        ],
+                        [
+                            27.19513,
+                            41.58807
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Pinar Dere",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269025,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773452,
+                "parselNo": "327",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "11,100.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 6,
+                "id": "3b605c8c-baa9-4ece-96c0-9192ccecfeb1",
+                "cropType": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19896,
+                            41.58867
+                        ],
+                        [
+                            27.19888,
+                            41.58847
+                        ],
+                        [
+                            27.19889,
+                            41.58846
+                        ],
+                        [
+                            27.19932,
+                            41.58911
+                        ],
+                        [
+                            27.19901,
+                            41.58911
+                        ],
+                        [
+                            27.19896,
+                            41.58867
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269144,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773574,
+                "parselNo": "398",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "910.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "3",
+                "indexNo": 8,
+                "id": "d693d9e5-abe9-41d5-a336-cdcca3f95b11",
+                "cropType": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19953,
+                            41.58819
+                        ],
+                        [
+                            27.19962,
+                            41.58839
+                        ],
+                        [
+                            27.19975,
+                            41.5886
+                        ],
+                        [
+                            27.19988,
+                            41.58878
+                        ],
+                        [
+                            27.19962,
+                            41.58891
+                        ],
+                        [
+                            27.19954,
+                            41.58893
+                        ],
+                        [
+                            27.19935,
+                            41.58895
+                        ],
+                        [
+                            27.19921,
+                            41.58874
+                        ],
+                        [
+                            27.19903,
+                            41.58842
+                        ],
+                        [
+                            27.19953,
+                            41.58819
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269145,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773576,
+                "parselNo": "399",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "3,700.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B E18-D-20-A",
+                "indexNo": 9,
+                "id": "a1e5bf92-6ba5-469f-81c4-d0693de635e6",
+                "cropType": "Hububat"
+            }
+        },
         
         {
             "type": "Feature",
