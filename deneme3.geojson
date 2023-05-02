@@ -135,7 +135,7 @@
             "type": "Feature",
             "properties": {
                 "id": "1231231231231241sbdabdqahb",
-                "ikibinyirmiiki": "bugday",
+                "name": "bugday",
                 "queque": "1",
                 "ozellik": "Guzel",
                 "latitude": 43.0789464826714,
@@ -185,7 +185,7 @@
             "type": "Feature",
             "properties": {
                 "id": "1231231231231241sbdabdqahbasdasaz231",
-                "ikibinyirmiiki": "bugday",
+                "name": "bugday",
                 "queque": "2",
                 "ozellik": "Kotu",
                 "latitude": 43.0789464826714,
@@ -339,102 +339,9 @@
                 "ilAd": "Kirklareli",
                 "mahalleId": 164546,
                 "pafta": "K.Eli-E18-D-19-B",
-                "ikibinyirmiiki": "Hububat",
+                "name": "Hububat",
                 "indexNo": 6,
                 "id": "20d727e5-9e36-43df-8f70-543676819a5f"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            27.19513,
-                            41.58807
-                        ],
-                        [
-                            27.19559,
-                            41.5878
-                        ],
-                        [
-                            27.19584,
-                            41.58792
-                        ],
-                        [
-                            27.19595,
-                            41.588
-                        ],
-                        [
-                            27.19601,
-                            41.58807
-                        ],
-                        [
-                            27.19542,
-                            41.58839
-                        ],
-                        [
-                            27.19503,
-                            41.58858
-                        ],
-                        [
-                            27.19478,
-                            41.58872
-                        ],
-                        [
-                            27.19401,
-                            41.58912
-                        ],
-                        [
-                            27.19341,
-                            41.58941
-                        ],
-                        [
-                            27.19332,
-                            41.58929
-                        ],
-                        [
-                            27.19318,
-                            41.58906
-                        ],
-                        [
-                            27.19335,
-                            41.58897
-                        ],
-                        [
-                            27.19399,
-                            41.58865
-                        ],
-                        [
-                            27.19513,
-                            41.58807
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "ilceAd": "Babaeski",
-                "mevkii": "Pinar Dere",
-                "ilId": 61,
-                "durum": "1",
-                "parselId": 56269025,
-                "zeminKmdurum": "Ana Taşınmaz",
-                "zeminId": 73773452,
-                "parselNo": "327",
-                "nitelik": "Tarla",
-                "mahalleAd": "Karabayir",
-                "gittigiParselListe": "",
-                "gittigiParselSebep": "",
-                "alan": "11,100.00",
-                "adaNo": "",
-                "ilceId": 608,
-                "ilAd": "Kirklareli",
-                "mahalleId": 164546,
-                "pafta": "K.Eli-E18-D-19-B",
-                "ikibinyirmiiki": "Hububat",
-                "indexNo": 6,
-                "id": "3bcee41c-74b4-4296-8cd9-5a159fe3f094"
             }
         }
     ]
