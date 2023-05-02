@@ -91,7 +91,7 @@
                 "pafta": "K.Eli-E18-D-19-B",
                 "indexNo": 6,
                 "id": "6704ef6a-c37e-436c-8cc3-040c8dda99f8",
-                "cropType": "Hububat"
+                "name": "Hububat"
             }
         },
         {
@@ -184,7 +184,7 @@
                 "pafta": "K.Eli-E18-D-19-B",
                 "indexNo": 6,
                 "id": "3b605c8c-baa9-4ece-96c0-9192ccecfeb1",
-                "cropType": "Hububat"
+                "name": "Hububat"
             }
         },
         {
@@ -241,7 +241,7 @@
                 "pafta": "3",
                 "indexNo": 8,
                 "id": "d693d9e5-abe9-41d5-a336-cdcca3f95b11",
-                "cropType": "Hububat"
+                "name": "Hububat"
             }
         },
         {
@@ -314,7 +314,7 @@
                 "pafta": "K.Eli-E18-D-19-B E18-D-20-A",
                 "indexNo": 9,
                 "id": "a1e5bf92-6ba5-469f-81c4-d0693de635e6",
-                "cropType": "Hububat"
+                "name": "Hububat"
             }
         },
         
