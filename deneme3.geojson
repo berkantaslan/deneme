@@ -8,6 +8,549 @@
                 "coordinates": [
                     [
                         [
+                            27.19419,
+                            41.58795
+                        ],
+                        [
+                            27.19502,
+                            41.58751
+                        ],
+                        [
+                            27.19528,
+                            41.58768
+                        ],
+                        [
+                            27.19466,
+                            41.58802
+                        ],
+                        [
+                            27.19427,
+                            41.58824
+                        ],
+                        [
+                            27.19397,
+                            41.58839
+                        ],
+                        [
+                            27.19307,
+                            41.58884
+                        ],
+                        [
+                            27.19297,
+                            41.58858
+                        ],
+                        [
+                            27.19331,
+                            41.58842
+                        ],
+                        [
+                            27.19367,
+                            41.58822
+                        ],
+                        [
+                            27.19419,
+                            41.58795
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Pinar Dere",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269027,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773454,
+                "parselNo": "329",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "6,250.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 16,
+                "id": "c7e1be53-06f3-410e-83ab-bbbf735fb86d",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19747,
+                            41.58769
+                        ],
+                        [
+                            27.1973,
+                            41.58734
+                        ],
+                        [
+                            27.19734,
+                            41.58733
+                        ],
+                        [
+                            27.19747,
+                            41.58728
+                        ],
+                        [
+                            27.19784,
+                            41.58775
+                        ],
+                        [
+                            27.19806,
+                            41.58806
+                        ],
+                        [
+                            27.1978,
+                            41.58816
+                        ],
+                        [
+                            27.19758,
+                            41.58796
+                        ],
+                        [
+                            27.1975,
+                            41.58785
+                        ],
+                        [
+                            27.19747,
+                            41.58769
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269138,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773565,
+                "parselNo": "392",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "2,400.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 17,
+                "id": "8d667bcf-39b8-4497-936a-b9df4d1807e6",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19747,
+                            41.58728
+                        ],
+                        [
+                            27.19743,
+                            41.58707
+                        ],
+                        [
+                            27.19755,
+                            41.58702
+                        ],
+                        [
+                            27.19775,
+                            41.58729
+                        ],
+                        [
+                            27.19813,
+                            41.58714
+                        ],
+                        [
+                            27.19854,
+                            41.58786
+                        ],
+                        [
+                            27.19806,
+                            41.58806
+                        ],
+                        [
+                            27.19784,
+                            41.58775
+                        ],
+                        [
+                            27.19747,
+                            41.58728
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269139,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773566,
+                "parselNo": "393",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "5,300.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 18,
+                "id": "51f58d22-6a3d-4172-97c0-a2a7da488818",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.20078,
+                            41.58805
+                        ],
+                        [
+                            27.20062,
+                            41.58817
+                        ],
+                        [
+                            27.20044,
+                            41.58832
+                        ],
+                        [
+                            27.20028,
+                            41.58809
+                        ],
+                        [
+                            27.20007,
+                            41.58784
+                        ],
+                        [
+                            27.20025,
+                            41.58767
+                        ],
+                        [
+                            27.20051,
+                            41.58747
+                        ],
+                        [
+                            27.20068,
+                            41.58731
+                        ],
+                        [
+                            27.20112,
+                            41.58782
+                        ],
+                        [
+                            27.2009,
+                            41.58799
+                        ],
+                        [
+                            27.20078,
+                            41.58805
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269150,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773586,
+                "parselNo": "404",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "4,600.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-20-A",
+                "indexNo": 20,
+                "id": "baf12d93-e4c9-4126-9a5e-13d4b20a8654",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19357,
+                            41.587
+                        ],
+                        [
+                            27.1937,
+                            41.5867
+                        ],
+                        [
+                            27.19376,
+                            41.58652
+                        ],
+                        [
+                            27.19389,
+                            41.58661
+                        ],
+                        [
+                            27.19424,
+                            41.58682
+                        ],
+                        [
+                            27.19445,
+                            41.58695
+                        ],
+                        [
+                            27.1946,
+                            41.58706
+                        ],
+                        [
+                            27.19473,
+                            41.58722
+                        ],
+                        [
+                            27.19461,
+                            41.58733
+                        ],
+                        [
+                            27.19394,
+                            41.58772
+                        ],
+                        [
+                            27.1933,
+                            41.58809
+                        ],
+                        [
+                            27.19289,
+                            41.58832
+                        ],
+                        [
+                            27.19291,
+                            41.58821
+                        ],
+                        [
+                            27.19315,
+                            41.58785
+                        ],
+                        [
+                            27.1933,
+                            41.58762
+                        ],
+                        [
+                            27.19357,
+                            41.587
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Pinar Dere",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269029,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773456,
+                "parselNo": "331",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "11,100.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 22,
+                "id": "af7afb7e-bae8-41f7-a978-b9a42db7c7aa",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19927,
+                            41.58769
+                        ],
+                        [
+                            27.19874,
+                            41.58795
+                        ],
+                        [
+                            27.19847,
+                            41.58747
+                        ],
+                        [
+                            27.1985,
+                            41.58746
+                        ],
+                        [
+                            27.19879,
+                            41.58735
+                        ],
+                        [
+                            27.19899,
+                            41.58725
+                        ],
+                        [
+                            27.19927,
+                            41.58769
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269248,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773693,
+                "parselNo": "411",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "3,000.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "indexNo": 23,
+                "id": "bf9a0597-249c-4a3d-b594-60e855d2664d",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19899,
+                            41.58725
+                        ],
+                        [
+                            27.19876,
+                            41.58691
+                        ],
+                        [
+                            27.19861,
+                            41.58676
+                        ],
+                        [
+                            27.19881,
+                            41.58664
+                        ],
+                        [
+                            27.19894,
+                            41.58656
+                        ],
+                        [
+                            27.19929,
+                            41.5863
+                        ],
+                        [
+                            27.19972,
+                            41.58664
+                        ],
+                        [
+                            27.19952,
+                            41.58677
+                        ],
+                        [
+                            27.19945,
+                            41.58686
+                        ],
+                        [
+                            27.19954,
+                            41.58701
+                        ],
+                        [
+                            27.19982,
+                            41.58731
+                        ],
+                        [
+                            27.19954,
+                            41.58753
+                        ],
+                        [
+                            27.19927,
+                            41.58769
+                        ],
+                        [
+                            27.19899,
+                            41.58725
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Çerkez Yurdu",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269155,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773596,
+                "parselNo": "410",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "7,915.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-20-A E18-D-19-B",
+                "indexNo": 24,
+                "id": "e26e4761-b91a-4636-90f3-accb0e740cae",
+                "name": "Hububat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
                             27.19513,
                             41.58807
                         ],
