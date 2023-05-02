@@ -1,0 +1,262 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+		{
+      "type": "Feature",
+	  "_id": "63a14b81e2d1966408bdb692",
+      "properties": {"name": "arpa", "queque": "2", "ozellik":"Kotu", "latitude":43.0789464826714,"longitude":-73.7840410897732},
+      "geometry":{"coordinates":[[[31.21569860413976,38.08285686564517],[31.215770212763516,38.0828985263887],[31.21586984215162,38.08285686564517],[31.215925883683354,38.0828666681754],[31.216000605723707,38.08280785297603],[31.21616250348123,38.08278824789852],[31.21645516480939,38.083256317678064],[31.2161531632255,38.08335434238336],[31.216109575367653,38.083351891766966],[31.216112688785728,38.083386200384155],[31.21562699551754,38.083550391399086],[31.2153343341879,38.08317789781907],[31.21569860413976,38.08285686564517]]],"type":"Polygon"}
+    },
+		{
+            "type": "Feature",
+            "properties": {
+                "fulcrum_id": "959c8503-95f4-4529-9f76-53f160e77443",
+                "created_at": "2015-07-25 18:19:58 UTC",
+                "updated_at": "2016-11-04 20:21:40 UTC",
+                "created_by": "tomdenny2010@gmail.com",
+                "updated_by": "fenton@nycap.rr.com",
+                "system_created_at": "2015-07-25 18:23:54 UTC",
+                "system_updated_at": "2016-11-04 20:21:46 UTC",
+                "version": 4,
+                "status": "Tree",
+                "marker-color": "#87D30F",
+                "project": "Saratoga Trees",
+                "assigned_to": null,
+                "latitude": 43.0793353669824,
+                "longitude": -73.7833653017879,
+                "congress_park_inventory_zone": "Zone 5: N flats: north of East Congress St & East of City Brook",
+                "plaque": "no",
+                "2002_map_number_if_any": null,
+                "2012_inventory_number": "143",
+                "species_sim": "Buğday",
+                "species_sim_other": null,
+                "circumference_2012_inches_at_breast_height_": "6",
+                "dbh_2012_inches_diameter_at_breast_height_46": "2",
+                "canopy_2012_diameter_in_feet": null,
+                "notes_other_information": "Inventory number for redbud to south?",
+                "year_planted": null,
+                "year_planted_other": null,
+                "ricks_pick_for_walking_tour": null,
+                "donor": "Barbara Glaser",
+                "in_memory_of_or_in_honor_of": null,
+                "photos": null,
+                "photos_caption": null,
+                "photos_url": null,
+                "gps_altitude": null,
+                "gps_horizontal_accuracy": null,
+                "gps_vertical_accuracy": null,
+                "gps_speed": null,
+                "gps_course": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.7833653017879,
+                            43.0793353669824
+                        ],
+                        [
+                            -73.7833653017879,
+                            43.0794353669824
+                        ],
+                        [
+                            -73.7843653017879,
+                            43.0794353669824
+                        ],
+                        [
+                            -73.7833653017879,
+                            43.0793353669824
+                        ]
+                    ]
+                ]
+            }
+        },
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19513,
+                            41.58807
+                        ],
+                        [
+                            27.19559,
+                            41.5878
+                        ],
+                        [
+                            27.19584,
+                            41.58792
+                        ],
+                        [
+                            27.19595,
+                            41.588
+                        ],
+                        [
+                            27.19601,
+                            41.58807
+                        ],
+                        [
+                            27.19542,
+                            41.58839
+                        ],
+                        [
+                            27.19503,
+                            41.58858
+                        ],
+                        [
+                            27.19478,
+                            41.58872
+                        ],
+                        [
+                            27.19401,
+                            41.58912
+                        ],
+                        [
+                            27.19341,
+                            41.58941
+                        ],
+                        [
+                            27.19332,
+                            41.58929
+                        ],
+                        [
+                            27.19318,
+                            41.58906
+                        ],
+                        [
+                            27.19335,
+                            41.58897
+                        ],
+                        [
+                            27.19399,
+                            41.58865
+                        ],
+                        [
+                            27.19513,
+                            41.58807
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Pinar Dere",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269025,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773452,
+                "parselNo": "327",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "11,100.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "2022": "Hububat",
+                "indexNo": 6,
+                "id": "20d727e5-9e36-43df-8f70-543676819a5f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.19513,
+                            41.58807
+                        ],
+                        [
+                            27.19559,
+                            41.5878
+                        ],
+                        [
+                            27.19584,
+                            41.58792
+                        ],
+                        [
+                            27.19595,
+                            41.588
+                        ],
+                        [
+                            27.19601,
+                            41.58807
+                        ],
+                        [
+                            27.19542,
+                            41.58839
+                        ],
+                        [
+                            27.19503,
+                            41.58858
+                        ],
+                        [
+                            27.19478,
+                            41.58872
+                        ],
+                        [
+                            27.19401,
+                            41.58912
+                        ],
+                        [
+                            27.19341,
+                            41.58941
+                        ],
+                        [
+                            27.19332,
+                            41.58929
+                        ],
+                        [
+                            27.19318,
+                            41.58906
+                        ],
+                        [
+                            27.19335,
+                            41.58897
+                        ],
+                        [
+                            27.19399,
+                            41.58865
+                        ],
+                        [
+                            27.19513,
+                            41.58807
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ilceAd": "Babaeski",
+                "mevkii": "Pinar Dere",
+                "ilId": 61,
+                "durum": "1",
+                "parselId": 56269025,
+                "zeminKmdurum": "Ana Taşınmaz",
+                "zeminId": 73773452,
+                "parselNo": "327",
+                "nitelik": "Tarla",
+                "mahalleAd": "Karabayir",
+                "gittigiParselListe": "",
+                "gittigiParselSebep": "",
+                "alan": "11,100.00",
+                "adaNo": "",
+                "ilceId": 608,
+                "ilAd": "Kirklareli",
+                "mahalleId": 164546,
+                "pafta": "K.Eli-E18-D-19-B",
+                "2022": "Hububat",
+                "indexNo": 6,
+                "id": "3bcee41c-74b4-4296-8cd9-5a159fe3f094"
+            }
+        }
+	]
+}
