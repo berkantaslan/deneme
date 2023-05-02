@@ -134,6 +134,7 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "1231231231231241sbdabdqahb",
                 "name": "bugday",
                 "queque": "1",
                 "ozellik": "Guzel",
@@ -183,6 +184,7 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "1231231231231241sbdabdqahbasdasaz231",
                 "name": "bugday",
                 "queque": "2",
                 "ozellik": "Kotu",
